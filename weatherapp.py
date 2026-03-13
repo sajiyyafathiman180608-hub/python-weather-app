@@ -16,7 +16,8 @@ if data["cod"] == 200:
     print("City:", city_name, ",", country)
     print("Temperature:", temp, "°C")
     print("Humidity:", humidity, "%")
-    print("Condition:", weather,"\n")
+    print("Condition:", weather)
+    print("Wind:",wind,"\n")
 else:
     print("City not found")
 
