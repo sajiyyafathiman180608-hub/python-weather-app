@@ -1,30 +1,30 @@
-PYTHON WEATHER APP USING API:
-# python-weather-app
+#PYTHON WEATHER APP USING API:
+  python-weather-app
 
-APP DETAIL :
+# APP DETAIL :
 
      A simple weather application built using Python and the OpenWeatherMap API.  This application retrieves and displays weather details for any city in the world requested by the user.
 
-FEATURES :
+# FEATURES :
 
       * Fetches real-time weather data.   
       * Displays temperature.
       * Displays humidity.
       * Displays weather condition.
 
-TECHNOLOGIES USED :
+# TECHNOLOGIES USED :
 
                 * Python.
                 * Requests library.
                 * OpenWeatherMap API.
 
-HOW TO RUN :
+# HOW TO RUN :
 
         * Install requests library.
         * Run the Python Code.
         * Enter a city name to get weather details.
 
-WORKING :
+# WORKING :
 
        * import requests - This line helps python to import request library.
         why should we use request ?
@@ -44,7 +44,7 @@ WORKING :
        * Next , it prints the weather report , followed by city name , country , next temperature , humidity , condition and wind.
        * If the city entered by the user doesn't found , then it prints the else part ("City not found ").
 
-AUTHOR:
+# AUTHOR:
 
 Sajiyya Fathima N
 
