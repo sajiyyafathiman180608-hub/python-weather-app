@@ -2,15 +2,21 @@ PYTHON WEATHER APP USING API:
 # python-weather-app
 
 APP DETAIL :
+
      A simple weather application built using Python and the OpenWeatherMap API.  This application retrieves and displays weather details for any city in the world requested by the user.
 
 FEATURES :
+
      * Fetches real-time weather data.
+     
      * Displays temperature.
+     
      * Displays humidity.
+     
      * Displays weather condition.
 
 Technologies Used:
+
                 * Python.
                 * Requests library.
                 * OpenWeatherMap API.
