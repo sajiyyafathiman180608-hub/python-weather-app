@@ -7,10 +7,10 @@ APP DETAIL :
 
 FEATURES :
 
-     * Fetches real-time weather data.   
-     * Displays temperature.
-     * Displays humidity.
-     * Displays weather condition.
+      * Fetches real-time weather data.   
+      * Displays temperature.
+      * Displays humidity.
+      * Displays weather condition.
 
 Technologies Used:
 
@@ -25,6 +25,7 @@ HOW TO RUN :
         * Enter a city name to get weather details.
 
 WORKING :
+
        * import requests - This line helps python to import request library.
         why should we use request ?
               Because it allows Python to send requests to websites/APIs. The program asks the weather server for data.
