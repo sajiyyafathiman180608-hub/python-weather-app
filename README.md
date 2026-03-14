@@ -12,7 +12,7 @@ FEATURES :
       * Displays humidity.
       * Displays weather condition.
 
-Technologies Used:
+TECHNOLOGIES USED :
 
                 * Python.
                 * Requests library.
